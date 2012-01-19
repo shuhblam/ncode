@@ -1,12 +1,12 @@
 {
   "author": "Cole Gillespie <mcg42387@gmail.com> (@theCole)",
-  "name": "zencoder",
-  "description": "use node to do you zencoding",
+  "name": "ncode",
+  "description": "zencode with node",
   "version": "0.0.1",
   "homepage": "n/a",
   "repository": {
     "type": "git",
-    "url": "git://github.com/coleGillespie/node-zencoder.git"
+    "url": "git://github.com/coleGillespie/ncode.git"
   },
   "main": "index",
   "engines": {

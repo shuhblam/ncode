@@ -1,1 +1,1 @@
-module.exports = require('./lib/zencoder');
+module.exports = require('./lib/ncode');
