@@ -1,0 +1,17 @@
+{
+  "author": "Cole Gillespie <mcg42387@gmail.com> (@theCole)",
+  "name": "zencoder",
+  "description": "use node to do you zencoding",
+  "version": "0.0.1",
+  "homepage": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coleGillespie/node-zencoder.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
