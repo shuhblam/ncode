@@ -7,4 +7,5 @@ lib-cov
 *.out
 *.pid
 benchmarks/*.png
+app.js
 node_modules
